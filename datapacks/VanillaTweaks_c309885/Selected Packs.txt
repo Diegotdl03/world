@@ -1,0 +1,15 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.16
+Packs:
+	back to blocks
+	rotten flesh to leather
+	straight to shapeless
+	more trapdoors
+	more stairs
+	more bricks
+	craftable gravel
+	craftable notch apples
+	craftable name tags
+	unpackable ice
+	unpackable nether wart
+	unpackable wool
